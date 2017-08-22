@@ -14,3 +14,7 @@ img {
 body {
   background-color: green;
 }
+p {
+  border-style: groove;
+  border-color: purple;
+  border-width: 5px;
