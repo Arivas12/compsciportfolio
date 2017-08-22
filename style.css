@@ -5,6 +5,7 @@ h1 {
 }
 ul {
   color: green;
+  text-align: left;
 }
 img {
   height: 350px;
