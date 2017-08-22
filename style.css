@@ -7,3 +7,7 @@ li {
   color: blue;
   text-align: right;
 }
+img {
+  height: 150px;
+  width: 150px;
+}
