@@ -3,11 +3,11 @@ h1 {
   text-align: center;
   text-decoration: underline;
 }
-li {
+ul {
   color: green;
   text-align: right;
 }
 img {
-  height: 150px;
-  width: 50%;
+  height: 150cm;
+  width: 150cm;
 }
